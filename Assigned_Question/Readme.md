@@ -1,0 +1,2 @@
+### Assigned Question
+##### Question_1 :- Given a singly linked list with head reference name Head , create function print which print singly linked list in reverse order [NOTE :- Don't use other data structure like array , maps , sets and any other inbuilt data structure]
