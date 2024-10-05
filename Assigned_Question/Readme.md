@@ -1,2 +1,3 @@
 ### Assigned Question
-##### Question_1 :- Given a singly linked list with head reference name Head , create function print which print singly linked list in reverse order [NOTE :- Don't use other data structure like array , maps , sets and any other inbuilt data structure]
+#### Question_1 :- Given a singly linked list with head reference name Head , create function print which print singly linked list in reverse order [NOTE :- Don't use other data structure like array , maps , sets and any other inbuilt data structure]
+#### Question_2 :- Write a code in Java to check whether a given string having value as opening and closing bracket has valid parenthesis or Not .
